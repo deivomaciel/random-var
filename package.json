@@ -1,6 +1,6 @@
 {
-  "name": "randomvar",
-  "version": "1.0.1",
+  "name": "random-var",
+  "version": "1.0.0",
   "description": "Pacote para facilitar o processo de gerar valores aleatórios.",
   "main": "index.js",
   "scripts": {
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deivomaciel/randomvar.git"
+    "url": "git+https://github.com/deivomaciel/random-var.git"
   },
   "keywords": ["aleatório", "random", "gerador", "caracteres", "variável"],
-  "author": "Deivide M.",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/deivomaciel/randomvar/issues"
+    "url": "https://github.com/deivomaciel/random-var/issues"
   },
-  "homepage": "https://github.com/deivomaciel/randomvar#readme"
+  "homepage": "https://github.com/deivomaciel/random-var#readme"
 }
