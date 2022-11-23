@@ -1,7 +1,7 @@
 {
   "name": "randomvar",
   "version": "1.0.1",
-  "description": "Pacote para facilitar o processo de geração de valores aleatórios.",
+  "description": "Pacote para facilitar o processo de gerar valores aleatórios.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
