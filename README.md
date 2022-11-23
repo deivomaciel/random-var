@@ -12,7 +12,7 @@ npm install randomvar
 <h2>Sintaxe</h2>
 
 ```js
-randomvar.generateValue(tamanho, opções)
+generateValue(tamanho, opções)
 ```
 <h3>Parâmetros</h3>
 <ol>
@@ -66,7 +66,9 @@ randomvar.generateValue(tamanho, opções)
 <h2>Exemplo de uso</h2>
 
 ```js
-randomvar.generateValue(5, ["upCase", "lowerCase", "number"])
+const { generateValue } = require('randomvar')
+
+console.log(generateValue(5, ["upCase", "lowerCase", "number"]))
 ```
 
 <br>
@@ -75,4 +77,8 @@ randomvar.generateValue(5, ["upCase", "lowerCase", "number"])
 
 <br>
 
-<p>O exemplo irá retornar uma string com 5 caracteres contendo letras maiúsculas, letras minúsculas e números.</p>
+<p>O exemplo irá retornar uma string aleatória com 5 caracteres contendo letras maiúsculas, letras minúsculas e números.</p>
+
+```
+Saída: 8SZbf
+```
