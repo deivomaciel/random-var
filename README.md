@@ -6,7 +6,7 @@
 </p>
 
 <h2>Descrição</h2>
-<p>O Randomvar é uma biblioteca desenvolvida para facilitar o processo de geração de valores aleatórios.</p>
+<p>O Randomvar é uma biblioteca desenvolvida para facilitar o processo de gerar valores aleatórios.</p>
 
 <h2>Instalação</h2>
 
