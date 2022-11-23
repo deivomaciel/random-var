@@ -1,5 +1,10 @@
 <h1 align="center">Randomvar</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0.1-blue"/>
+  <img src="https://img.shields.io/badge/license-ISC-green"/>
+</p>
+
 <h2>Descrição</h2>
 <p>O Randomvar é uma biblioteca desenvolvida para facilitar o processo de geração de valores aleatórios.</p>
 
