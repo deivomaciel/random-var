@@ -50,4 +50,4 @@ const generateValue = (len, options) => {
     }
 }
 
-module.exports = generateValue
+module.exports = { generateValue }

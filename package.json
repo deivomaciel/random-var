@@ -1,6 +1,6 @@
 {
   "name": "randomvar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pacote para facilitar o processo de geração de valores aleatórios.",
   "main": "index.js",
   "scripts": {
