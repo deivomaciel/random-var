@@ -1,18 +1,18 @@
-<h1 align="center">Randomvar</h1>
+<h1 align="center">Random-var</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.1-blue"/>
+  <img src="https://img.shields.io/badge/version-1.0.0-blue"/>
   <img src="https://img.shields.io/badge/license-ISC-green"/>
 </p>
 
 <h2>Descrição</h2>
-<p>O Randomvar é uma biblioteca desenvolvida para facilitar o processo de gerar valores aleatórios.</p>
+<p>O Random-var é uma biblioteca desenvolvida para facilitar o processo de gerar valores aleatórios.</p>
 
 <h2>Instalação</h2>
 
 Execute o comando npm install em seu terminal.
 ```shell
-npm install randomvar
+npm install random-var
 ```
 <h2>Sintaxe</h2>
 
@@ -71,7 +71,7 @@ generateValue(tamanho, opções)
 <h2>Exemplo de uso</h2>
 
 ```js
-const { generateValue } = require('randomvar')
+const { generateValue } = require('random-var')
 
 console.log(generateValue(5, ["upCase", "lowerCase", "number"]))
 ```
